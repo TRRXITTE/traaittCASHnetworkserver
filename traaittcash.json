@@ -1,56 +1,56 @@
 {
   "nodes": [
     {
-      "name": "ASIA EAST traaittPlatform",
+      "name": "ASIA EAST traaittCASH",
       "url": "asia-east.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "ASIA NORTHEAST traaittPlatform",
+      "name": "ASIA NORTHEAST traaittCASH",
       "url": "asia-northeast.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "ASIA SOUTHEAST traaittPlatform",
+      "name": "ASIA SOUTHEAST traaittCASH",
       "url": "asia-southeast.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "EUROPE WEST traaittPlatform",
+      "name": "EUROPE WEST traaittCASH",
       "url": "europe.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "EUROPE WEST traaittPlatform",
+      "name": "EUROPE WEST traaittCASH",
       "url": "europe-west.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "SOUTHAMERICA EAST traaittPlatform",
+      "name": "SOUTHAMERICA EAST traaittCASH",
       "url": "southamerica-east.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "US EAST traaittPlatform",
+      "name": "US EAST traaittCASH",
       "url": "us-east.trrxitte.com",
       "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "US WEST traaittPlatform",
+      "name": "US WEST traaittCASH",
       "url": "us-west.trrxitte.com",
       "port": 14486,
       "ssl": false,
