@@ -1,13 +1,6 @@
 {
   "nodes": [
     {
-      "name": "EUROPE WEST I traaittCASH",
-      "url": "europe-west.traaitt.com",
-      "port": 14486,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "ASIA EAST traaittCASH",
       "url": "asia-east.trrxitte.com",
       "port": 14486,
