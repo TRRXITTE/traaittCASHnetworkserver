@@ -23,14 +23,14 @@
     },
     {
       "name": "EUROPE WEST XTCASH",
-      "url": "europe.trrxitte.com",
+      "url": "eu.trrxitte.com",
       "port": 14423,
       "ssl": false,
       "cache": false
     },
     {
       "name": "EUROPE WEST XTCASH",
-      "url": "europe-west.trrxitte.com",
+      "url": "eu-west.trrxitte.com",
       "port": 14423,
       "ssl": false,
       "cache": false
